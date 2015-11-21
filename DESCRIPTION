@@ -1,0 +1,20 @@
+Package: Project11Lang
+Type: Package
+Title: Project11Lang.
+Version: 1.0
+Date: 2015-11-19
+Author: Chandler Zuo, Chengming Wang
+Maintainer: Chandler Zuo, Chengming Wang
+Description: Project11Lang.
+License: GPL-2
+LinkingTo: Rcpp
+Depends:
+    Rcpp,
+    data.table,
+    doParallel,
+    foreach,
+    gbm,
+    xgboost,
+    randomForest,
+    ggplot2,
+    stringr
